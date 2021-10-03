@@ -1,0 +1,18 @@
+﻿{
+  "cognitiveServices": {
+    "speechToTextService": {
+      "key": "xxx",
+      "region": "westeurope"
+    }
+  },
+  "files": [
+    {
+      "filePath": "C:\\1.mp3",
+      "sourceLanguage": "en-US"
+    },
+    {
+      "filePath": "C:\\2.mp3",
+      "sourceLanguage": "en-US"
+    }
+  ]
+}
